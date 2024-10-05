@@ -54,7 +54,7 @@ img{
     font-weight: bold;
 }
 .logo p span{
-    color: var(--yellow-color);
+    color: rgb(0, 255, 123);
 }
 .search-element{
     display: -webkit-box;
@@ -145,7 +145,7 @@ img{
             box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
 .search-list::-webkit-scrollbar-thumb{
-    background-color: var(--yellow-color);
+    background-color:  rgb(0, 255, 123);;
     outline: none;
     border-radius: 10px;
 }
@@ -192,7 +192,7 @@ img{
     font-weight: 500;
 }
 .movie-info .rated{
-    background-color: var(--yellow-color);
+    background-color:  rgb(0, 255, 123);;
     padding: 0.4rem;
     margin: 0 0.4rem;
     border-radius: 3px;
@@ -217,7 +217,7 @@ img{
     margin: 1rem auto;
 }
 .movie-info .language{
-    color: var(--yellow-color);
+    color:  rgb(0, 255, 123);;
     font-style: italic;
 }
 .movie-info .awards{
@@ -225,7 +225,7 @@ img{
     font-size: 0.9rem;
 }
 .movie-info .awards i{
-    color: var(--yellow-color);
+    color:  rgb(0, 255, 123);;
     margin: 1rem 0.7rem 0 0;
 }
 
